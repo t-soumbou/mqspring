@@ -1,4 +1,8 @@
 HELP.md
+mqjms.log.0
+mqjms.log.0.lck
+mvnw.cmd
+mvnw
 target/
 FFDC/
 !.mvn/wrapper/maven-wrapper.jar
